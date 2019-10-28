@@ -62,7 +62,7 @@ request.setCharacterEncoding("utf-8");
 			out.println("<body>");
 			out.println("<h1>로그인에 실패하였습니다.</h1>");
 			out.println("<h1>아이디 혹은 패스워드를 확인해주세요</h1>");
-			out.println("<a href='index.html'>기본 페이지로 이동</a>");
+			out.println("<a href='index.html'>기본</a>");
 			out.println("</body>");
 			out.println("</html>");
 	
