@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>에러 발생 페이지!</title>
+<title>에러 발생할 수 있는 페이지!</title>
 </head>
 <body>
 	<h2>JSP 에러 테스트 페이지</h2>

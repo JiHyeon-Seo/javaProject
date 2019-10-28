@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Exception Check</title>
+<title>Exception Check 예외를 처리할페이지 </title>
 </head>
 <body>
 	<h2>에러가 발생하였습니다!</h2>
